@@ -8,5 +8,6 @@ namespace WebApplication_FxVanilla
     public class Class2
     {
         Class1 c = new Class1();
+
     }
 }
